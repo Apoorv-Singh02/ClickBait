@@ -1,0 +1,30 @@
+.matrixmaxer {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    max-width: 500px;
+    width: 100%;
+}
+
+form {
+    width: 100%;
+    height: 50px;
+}
+
+textarea {
+    width: 100%;
+    height: 50px;
+}
+
+.build {
+    width: 100%;
+    color: white;
+    background-color: rgb(114, 114, 255);
+    border-radius: 5px;
+    outline: none;
+    height: 30px;
+}
+
+.build:active {
+    background-color: blue;
+}
